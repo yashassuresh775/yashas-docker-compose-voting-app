@@ -1,0 +1,25 @@
+# macOS system files
+.DS_Store
+
+# Python build/cache files
+__pycache__/
+*.py[cod]
+*$py.class
+.env
+venv/
+.venv/
+
+# Node.js dependencies
+node_modules/
+npm-debug.log*
+
+# .NET build artifacts
+bin/
+obj/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Docker logs
+*.log
